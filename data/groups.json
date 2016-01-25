@@ -355,6 +355,16 @@
         "advertised": "Twitter\nFacebook\nMeet up group\nLinkedIn"
     },
     {
+        "name": "Northern Soho",
+        "description": "Networking and support for creatives and freelancers through mentoring drop-in sessions and evening meetups",
+        "organiser": "Anjlee Bhatt & Gavin Wood",
+        "where": "The Fitzgerald / Rosylee, Stevenson Square",
+        "when": "Last Tuesday of every month",
+        "twitter": "@NorthernSoho",
+        "website": "http://northernsoho.co.uk/",
+        "advertised": "Meetup, Twitter, Facebook, LinkedIn, etc"
+    },
+    {
         "name": "NSManchester",
         "description": "iPhone and Mac developer monthly meetup in Manchester, UK.",
         "organiser": "Ross Butler",
